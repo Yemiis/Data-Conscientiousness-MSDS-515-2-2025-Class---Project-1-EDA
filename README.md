@@ -1,1 +1,1 @@
-# Data-Conscientiousness-MSDS-515-2-2025-Class---Project-1-EDA
+# Data-Conscientiousness-MSDS-515-2-2025-Class---Project-1-EDA Diabeties
