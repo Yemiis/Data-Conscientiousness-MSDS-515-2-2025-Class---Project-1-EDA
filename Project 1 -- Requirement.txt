@@ -1,0 +1,53 @@
+Project 1: Exploratory Data Analysis (EDA) and Visualization on Real World Dataset
+
+ 
+
+Objective
+
+The goal of this assignment is to practice data loading, visualization, and exploratory data analysis (EDA) using Python. You will work with the Diabetes dataset and perform summary statistics, correlation analysis, and visualization.
+
+ 
+
+Instructions
+
+Load the Diabetes dataset (diabetes.csv) into a pandas DataFrame.
+Use Python libraries such as pandas, numpy, and seaborn.
+Perform the tasks below and document your code and observations.
+ 
+
+Tasks
+
+Part 1: Data Loading
+
+Load the dataset into a pandas DataFrame.
+Part 2: Data Visualization
+
+Plot 5 different types of visualizations using the dataset. Some examples:
+
+Histogram
+Boxplot
+Scatter plot between two variables (i.e., glucose vs insulin)
+Scatter plot between another two variables (i.e., BMI vs SkinThickness)
+Count plot of the target variable (Outcome)
+Part 3: Exploratory Data Analysis (EDA)
+
+Calculate the following statistics for all numerical variables:
+
+Mean
+Median
+Range
+Interquartile Range (IQR)
+Variance
+Standard Deviation
+Covariance (for pairs of variables)
+Correlation coefficient (for pairs of variables)
+Part 4: Correlation Analysis
+
+Plot a correlation heatmap of all variables.
+Plot a pairplot of the dataset.
+ 
+
+Deliverables
+
+A Jupyter notebook (.ipynb)
+A report with plots, measurements, and observations.
